@@ -41,10 +41,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Salvar os projeto no Github em monorepo
 - [x] Montar o visual estático do front-end com base no figma
 - [x] Criar projeto Spring Boot no Spring Initializr com as seguintes dependências:
-    o	Web
-    o	JPA
-    o	H2
-    o	Security
+    -	Web
+    -	JPA
+    -	H2
+    -	Security
 - [x] "Limpar" o projeto ReactJS e estilizar
 - [x] Adicionar um seletor de data - Datepicker
 - [x] React Hook useState para manter estado das datas
