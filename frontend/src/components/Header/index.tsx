@@ -1,6 +1,6 @@
 import logo from '../../assets/img/logo.svg';
 
-import './styles.css';
+import'./styles.css';
 function Header() {
     return (
         <header>
@@ -9,7 +9,7 @@ function Header() {
                 <h1>DSMeta</h1>
                 <p>
                     Desenvolvido por
-                    <a href="https://github.com/giselle-souza"> Giselle Souza</a>
+                    <a href="https://gisellesouzaa.github.io/portfolio/"> Giselle Souza</a>
                 </p>
             </div>
         </header>
