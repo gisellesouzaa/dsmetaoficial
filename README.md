@@ -1,18 +1,10 @@
 <h1 align="center">DS Meta</h1>
 
-<p align="center">Projeto Fullstack de um sistema de controle de vendas para monitorar o alcance das metas pelos vendedores.O sistema conta com envio automático de SMS.</p>
-
-
-
----
+<p align="center">Projeto Fullstack de um sistema de controle de vendas para monitorar o alcance das metas pelos vendedores. O sistema conta com integração ao banco de dados, envio automático de SMS e implantação do front-end e back-end na nuvem.</p>
 
 <h1 align="center">
-  <img alt="Gif criado no aplicativo ScreenToGif" title="WeatherApp" src="" height="425" />
+  <img alt="Gif da Página DS Meta" title="DS Meta" src="./paginaDsMeta.gif" />
 </h1>
-
-<p align="center">🚧 Site em construção 🚧<p>
-
----
  
 ### 🛠 Tecnologias:
 
@@ -25,19 +17,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
+
+
 ### 💻 Demostração:
 
-<a href="https://gisellesouzaa.github.io/CardapioCafeteria/" target="_blank"><img align="center" alt="Testar Aplicação" src="https://img.shields.io/badge/Clique_aqui_para_testar_a_página-6DB33F?style=flat&logoColor=white"></a>
+<a href="https://dsmetagisellesouza.netlify.app/" target="_blank"><img align="center" alt="Testar Aplicação" src="https://img.shields.io/badge/Clique_aqui_para_testar_a_página-430098?style=flat&logoColor=white"></a>
 
-### Fases do projeto: 
+### 📝 Fases do projeto: 
 
-- [x] Criar projetos back-end e frontend
+- [x] Criar projetos back-end e front-end
 - [x] Salvar os projeto no Github em monorepo
 - [x] Montar o visual estático do front-end com base no figma
 - [x] Criar projeto Spring Boot no Spring Initializr com as seguintes dependências:
@@ -51,8 +46,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Implementar o back end
 - [x] Acesso a banco de dados H2
 - [x] Criar endpoints da API REST
-- [x] Integração com SMS 
+- [x] Integração com SMS com Twilio
 - [x] Implantação na nuvem com Heroku
+- [x] Requisição com Axios e useEffect
+- [x] Mensagem de confirmação com Toast 
+- [x] Deploy no Netlify
+<br><br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54596868-a347-456b-aa37-8fa1ac1c1dc4/deploy-status)](https://app.netlify.com/sites/dsmetagisellesouza/deploys)
 
 ---
 
@@ -66,7 +66,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 ---
 
-### Autor:
+### 👩🏽‍💻 Autor:
 
 <img alt="Giselle Souza" title="Giselle Souza" src="https://github.com/gisellesouzaa.png" height="100" width="100"/>
 
