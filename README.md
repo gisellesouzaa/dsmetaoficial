@@ -1,6 +1,6 @@
 <h1 align="center">DS Meta</h1>
 
-<p align="center">Projeto Fullstack de um sistema de controle de vendas para monitorar o alcance das metas pelos vendedores. O sistema conta com integração ao banco de dados, envio automático de SMS e implantação do front-end e back-end na nuvem.</p>
+<p align="center">Projeto Fullstack de um sistema para monitorar o alcance das metas de vendas. O sistema está integrado com um banco de dados e conta com envio automático de SMS e implantação do front-end e back-end na nuvem.</p>
 
 <h1 align="center">
   <img alt="Gif da Página DS Meta" title="DS Meta" src="./paginaDsMeta.gif" />
@@ -51,8 +51,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Requisição com Axios e useEffect
 - [x] Mensagem de confirmação com Toast 
 - [x] Deploy no Netlify
-<br><br>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/54596868-a347-456b-aa37-8fa1ac1c1dc4/deploy-status)](https://app.netlify.com/sites/dsmetagisellesouza/deploys)
 
 ---
 
